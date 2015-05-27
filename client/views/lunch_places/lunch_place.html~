@@ -1,0 +1,5 @@
+<template name="lunchPlace">
+  <div class="lunch-place">
+    <h3><a href="{{url}}">{{name}}</a><span>{{description}}</span></h3>
+  </div>
+</template>
