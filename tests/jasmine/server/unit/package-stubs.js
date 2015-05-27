@@ -7085,7 +7085,7 @@ var packageMetadata = {
                 },
                 "version": {
                   "type": "constant",
-                  "value": "ff947cdaf97f37d7bfe97459a9b117c7c0879bc4"
+                  "value": "c2f796258d38751050f4bebaa664cb0aa16a0920"
                 },
                 "PUBLIC_SETTINGS": {
                   "type": "undefined"
@@ -7209,7 +7209,7 @@ var packageMetadata = {
             },
             "connections": {
               "type": "constant",
-              "value": 6
+              "value": 0
             },
             "timeout": {
               "type": "constant",
@@ -7862,11 +7862,11 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "0044be37d3f662575d5a0f1ab37c6d398af0489c"
+          "value": "922351842bc246662188a30a9929701b3e6d9697"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
-          "value": "0fd77fca161770b7589884bb44b9a7240b338094"
+          "value": "8ffc88a74bc4ea6b11e125aa6685a9cde1fa6fd8"
         },
         "autoupdateVersionCordova": {
           "type": "constant",
@@ -20865,6 +20865,7 @@ var packageMetadata = {
   },
   "velocity:html-reporter": {},
   "xolvio:cucumber": {},
+  "twbs:bootstrap": {},
   "session": {},
   "service-configuration": {
     "ServiceConfiguration": {

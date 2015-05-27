@@ -25,3 +25,4 @@ semantic:ui-css
 sanjo:jasmine
 velocity:html-reporter
 xolvio:cucumber
+twbs:bootstrap
