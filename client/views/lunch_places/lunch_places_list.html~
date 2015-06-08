@@ -1,7 +1,0 @@
-<template name="lunchPlacesList">
-  <div class="lunch-places">
-    {{#each lunchPlaces}}
-      {{> lunchPlace}}
-    {{/each}}
-  </div>
-</template>
